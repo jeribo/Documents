@@ -1,4 +1,4 @@
-Documentantions
+Documents
 ===============
 
-Documetnos TCC
+Documentos TCC
